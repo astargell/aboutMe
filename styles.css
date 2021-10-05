@@ -1,13 +1,18 @@
 .smaller-image {
-    width: 200px
+    width: 200px;
+     /* border-color: darkblue;
+       border-width: 10px; */
+    /* border-style: solid; */
     }
     
-    .purple-text {
-     color:darkmagenta   
+    .heading-text {
+     color: peru; 
+     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif  
     }
 
     .green-text {
-        color:forestgreen
+        color:forestgreen;
+
     }
 
    body {
@@ -15,6 +20,12 @@
    }
 
    .pic-border {
-       border-color: darkblue;
-       border-width: ;
+      border:  darkolivegreen 10px solid;
+      border-radius: 5px;
    }
+   /* border code in one line rep's color, width, style. All required for border to show */
+
+   /* Another way to create a CSS class
+        .bio-font {
+       font-family: Verdana, Geneva, Tahoma, sans-serif;
+   } */
