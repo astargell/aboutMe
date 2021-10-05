@@ -1,0 +1,20 @@
+.smaller-image {
+    width: 200px
+    }
+    
+    .purple-text {
+     color:darkmagenta   
+    }
+
+    .green-text {
+        color:forestgreen
+    }
+
+   body {
+       background-color: lightsteelblue;
+   }
+
+   .pic-border {
+       border-color: darkblue;
+       border-width: ;
+   }
